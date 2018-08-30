@@ -107,5 +107,18 @@ namespace MuazaWebApi.ProjectProcessing
 
             return _projs ;
         }
+        public _Project getProject(int id)
+        {
+            List<string> test = new List<string>();
+            List<string> url = new List<string>();
+            var p =  _repo.Projects.Where(x => x.id == id).SingleOrDefault();
+            if (!string.IsNullOrEmpty(p.images))
+            {
+                test = JsonConvert.DeserializeObject<List<string>>(p.images);
+                url = JsonConvert.DeserializeObject<List<string>>(p._url);
+            }
+            _Project proj = new _Project() { project = p, images = url };
+            return proj;
+        }
     }
 }

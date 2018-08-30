@@ -20,3 +20,14 @@ C:\Users\Muaz\Desktop\Angular\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\Mu
 C:\Users\Muaz\Desktop\Angular\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.dll
 C:\Users\Muaz\Desktop\Angular\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.pdb
 C:\Users\Muaz\Desktop\Angular\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.csprojResolveAssemblyReference.cache
+E:\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.deps.json
+E:\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.runtimeconfig.json
+E:\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.runtimeconfig.dev.json
+E:\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.dll
+E:\MuazaWebApi\MuazaWebApi\bin\Debug\netcoreapp2.0\MuazaWebApi.pdb
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.csprojResolveAssemblyReference.cache
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.csproj.CoreCompileInputs.cache
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.AssemblyInfoInputs.cache
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.AssemblyInfo.cs
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.dll
+E:\MuazaWebApi\MuazaWebApi\obj\Debug\netcoreapp2.0\MuazaWebApi.pdb

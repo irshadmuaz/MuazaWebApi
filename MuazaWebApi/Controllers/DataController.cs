@@ -108,6 +108,12 @@ namespace MuazaAngular.Controllers
             //return _context.Projects.ToList();
             return _projectProcessing.getProjects();
         }
+        [HttpGet("[action]/{id}")]
+        public _Project GetProject(int id)
+        {
+            //return _context.Projects.ToList();
+            return _projectProcessing.getProject(id);
+        }
         // DELETE api/<controller>/5
         [HttpDelete("[action]/{id}")]
         public StatusCodeResult DeleteProject(int id)

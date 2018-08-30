@@ -12664,8 +12664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Muaz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\lab\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12674,20 +12673,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muaz\\Desktop\\Angular\\MuazaWebApi\\MuazaWebApi\\MuazaWebApi.csproj",
+      "projectUniqueName": "E:\\MuazaWebApi\\MuazaWebApi\\MuazaWebApi.csproj",
       "projectName": "MuazaWebApi",
-      "projectPath": "C:\\Users\\Muaz\\Desktop\\Angular\\MuazaWebApi\\MuazaWebApi\\MuazaWebApi.csproj",
-      "packagesPath": "C:\\Users\\Muaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muaz\\Desktop\\Angular\\MuazaWebApi\\MuazaWebApi\\obj\\",
+      "projectPath": "E:\\MuazaWebApi\\MuazaWebApi\\MuazaWebApi.csproj",
+      "packagesPath": "C:\\Users\\lab\\.nuget\\packages\\",
+      "outputPath": "E:\\MuazaWebApi\\MuazaWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Muaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12710,30 +12707,30 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "EntityFramework": {
-            "target": "Package",
-            "version": "[6.2.0, )"
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.5, )"
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[2.0.1, )"
+            "version": "2.0.1"
+          },
+          "Swashbuckle.AspNetCore.SwaggerUI": {
+            "target": "Package",
+            "version": "1.1.0"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
           },
           "Swashbuckle.AspNetCore.SwaggerGen": {
             "target": "Package",
-            "version": "[1.1.0, )"
+            "version": "1.1.0"
           },
-          "Swashbuckle.AspNetCore.SwaggerUI": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[1.1.0, )"
+            "version": "2.0.5"
+          },
+          "EntityFramework": {
+            "target": "Package",
+            "version": "6.2.0"
           }
         },
         "imports": [
